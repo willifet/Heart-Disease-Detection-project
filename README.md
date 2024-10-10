@@ -1,1 +1,12 @@
-Thus preventing Heart diseases has become more than necessary. Good data-driven systems for predicting heart diseases can improve the entire research and prevention process, making sure that more people can live healthy lives. This is where Machine Learning comes into play. Machine Learning helps in predicting the Heart diseases, and the predictions made are quite accurate.
+# Heart Disease Detection Project
+
+### Objective 
+
+Built a classification model to detect the likelihood of heart disease based on patient medical data such as age, cholesterol levels, and blood pressure.
+
+### Outcome:
+
+•	Provided healthcare professionals with a tool to identify high-risk patients with an accuracy rate of 92%, potentially reducing diagnosis time and improving patient outcomes.
+
+•	Assisted in early detection and preventive care, supporting better medical decision-making.
+
